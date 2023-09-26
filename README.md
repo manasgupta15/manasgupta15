@@ -14,6 +14,6 @@
 
 🌍 Let's connect, collaborate, and build amazing things together!
 
-📫 Reach me at manasgupta.123.mg12@email.com for exciting projects and partnerships.
+📫 Reach me at manasgupta.123.mg12@gmail.com for exciting projects and partnerships.
 
 🔗 Check out my portfolio and open-source contributions below!
