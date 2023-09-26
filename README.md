@@ -1,16 +1,19 @@
-### Hi there 👋
+🚀 Full-Stack Developer | Open Source Enthusiast | Code Explorer
 
-<!--
-**manasgupta15/manasgupta15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Passionate about turning coffee into code and solving real-world problems.
 
-Here are some ideas to get you started:
+🌐 Always seeking new challenges and opportunities for growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Proficient in JavaScript, Python, and Ruby, and constantly learning more.
+
+🌱 Contributing to open-source projects to give back to the community.
+
+📚 Lifelong learner and advocate for continuous improvement.
+
+🎯 On a mission to make the digital world a better place, one commit at a time.
+
+🌍 Let's connect, collaborate, and build amazing things together!
+
+📫 Reach me at manasgupta.123.mg12@email.com for exciting projects and partnerships.
+
+🔗 Check out my portfolio and open-source contributions below!
