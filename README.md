@@ -4,7 +4,7 @@
 
 🌐 Always seeking new challenges and opportunities for growth.
 
-🔧 Proficient in JavaScript, Python, and Ruby, and constantly learning more.
+🔧 Proficient in JavaScript, Python, and ReactJs, and constantly learning more.
 
 🌱 Contributing to open-source projects to give back to the community.
 
